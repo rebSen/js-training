@@ -7,6 +7,9 @@
  */
 
 // Your code :
+function add (prems, deuz) {
+    return prems + deuz
+}
 
 //* Begin of tests
 const assert = require('assert')
