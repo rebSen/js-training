@@ -8,7 +8,7 @@
  */
 
 // Your code:
-function isPositive (number) {
+function isPositive(number) {
    if (number > 0) {  
     return true
    } else {
