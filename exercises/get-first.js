@@ -8,6 +8,9 @@
  */
 
 // Your code :
+function getFirst(elem){
+    return elem[0];
+}
 
 //* Begin of tests
 const assert = require('assert')

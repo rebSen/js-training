@@ -8,6 +8,10 @@
  */
 
 // Your code :
+function getLast(elem){
+    let comb = elem.length
+        return elem[comb-1];
+}
 
 //* Begin of tests
 const assert = require('assert')
